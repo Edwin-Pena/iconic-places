@@ -1,4 +1,4 @@
-# iconic-places
+# Iconic-places
 [Watch demo](https://iconic-places.netlify.app)
 
 It is a page that shows the most iconic places in the world, which contains:
